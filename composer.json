@@ -47,7 +47,8 @@
         "symfonycasts/sass-bundle": "^0.3",
         "twig/extra-bundle": "^3.3",
         "twig/intl-extra": "^3.3",
-        "twig/markdown-extra": "^3.3"
+        "twig/markdown-extra": "^3.3",
+        "twbs/bootstrap": "^4.5.3"
     },
     "require-dev": {
         "dama/doctrine-test-bundle": "^8.0.0",
@@ -62,8 +63,7 @@
         "symfony/maker-bundle": "^1.36",
         "symfony/phpunit-bridge": "^7.0.1",
         "symfony/stopwatch": "^7.0",
-        "symfony/web-profiler-bundle": "^7.0",
-        "twbs/bootstrap": "^4.5.3"
+        "symfony/web-profiler-bundle": "^7.0"
     },
     "config": {
         "allow-plugins": {
